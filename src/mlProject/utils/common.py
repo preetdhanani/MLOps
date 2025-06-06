@@ -100,7 +100,7 @@ def save_bin(data: Any, path: Path):
     logger.info(f"Binary file saved at: {path}")
 
 @ensure_annotations
-def get_size(path: Path) -> str:
+def get_size(path: str) -> str:
     """
     Returns the size of a file or directory in a human-readable format.
 
