@@ -12,10 +12,15 @@ class DataTransformationPipeline:
 
     def main(self):
         try:
-            config = ConfigurationManager()
-            data_transformation_config = config.data_transformation_config()
-            data_transformation = DataTransformation(config=data_transformation_config)
-            data_transformation.train_test_spliting()
+            with open("artifacts/data_validation/status.txt", 'r') as file:
+                status = file.read().split(" ")[-1]    
+            if status != "True":
+                raise Exception("Data validation failed. Cannot proceed with data transformation.")
+            else:
+                config = ConfigurationManager()
+                data_transformation_config = config.data_transformation_config()
+                data_transformation = DataTransformation(config=data_transformation_config)
+                data_transformation.train_test_spliting()
         except Exception as e:
             logger.exception(e)
             raise e
@@ -24,7 +29,7 @@ class DataTransformationPipeline:
 if __name__ == "__main__":
     try:
         logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
-        obj = DataValidationPipeline()
+        obj = DataTransformationPipeline()
         obj.main()
         logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx==========x")
     except Exception as e:
