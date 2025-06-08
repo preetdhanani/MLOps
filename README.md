@@ -124,7 +124,7 @@ To start model training:
 
 This will:
 
-    Automatically run the training pipeline (stage_04_model_trainer.py)
+    Automatically run the training pipeline (python main.py)
 
     Log the training run in MLflow
 
