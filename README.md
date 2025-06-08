@@ -95,7 +95,7 @@ source venv/bin/activate  # or use venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
 
-## 🌐 Run the Flask Web Interface
+## Run the Flask Web Interface
 
 This project includes a simple **Flask-based interface** to manually trigger the model training process via a web browser.
 
