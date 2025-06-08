@@ -79,6 +79,10 @@ Each pipeline stage is modular and traceable:
 
 ---
 
+## Analyze the parameters in dagshub(MLFlow)
+use this like for getting access thought its already in project
+    https://dagshub.com/preetdhanani/MLOps.mlflow
+
 ## Getting Started
 
 ### Installation
