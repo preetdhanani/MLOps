@@ -120,11 +120,11 @@ To start model training:
 
 This will:
 
-    Automatically run the training pipeline (stage_04_model_trainer.py)
+Automatically run the training pipeline (stage_04_model_trainer.py)
 
-    Log the training run in MLflow
+Log the training run in MLflow
 
-    Return a success or error message in the browser
+Return a success or error message in the browser
 
 ### Step 3: Prediction
 
