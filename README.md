@@ -1,10 +1,10 @@
-# 🧠 MLOps: Industry-Ready Machine Learning Pipeline with MLflow
+# MLOps: Industry-Ready Machine Learning Pipeline with MLflow
 
 This project demonstrates an **end-to-end MLOps architecture**, designed to mimic how machine learning pipelines are built and managed in real-world production environments. Developed as part of my Master’s in Artificial Intelligence & Robotics, this repository focuses on modular design, reproducibility, experiment tracking, and automation.
 
 ---
 
-## 🚀 Project Goals
+## Project Goals
 
 - Simulate an **industry-standard MLOps pipeline**
 - Apply modular development from data to model evaluation
@@ -15,7 +15,7 @@ This project demonstrates an **end-to-end MLOps architecture**, designed to mimi
 ---
 
 
-## 🧱 Project Structure
+## Project Structure
 
 ```bash
 MLOps/
@@ -42,7 +42,7 @@ MLOps/
 
 ```
 
-## 🔄 Pipeline Overview
+## Pipeline Overview
 
 Each pipeline stage is modular and traceable:
 
@@ -63,7 +63,7 @@ Each pipeline stage is modular and traceable:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python** – Core language
 - **MLflow** – Experiment tracking
@@ -74,9 +74,9 @@ Each pipeline stage is modular and traceable:
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
-### 🔧 Installation
+### Installation
 
 ```bash
 git clone https://github.com/preetdhanani/MLOps.git
@@ -84,3 +84,4 @@ cd MLOps
 python -m venv venv
 source venv/bin/activate  # or use venv\Scripts\activate on Windows
 pip install -r requirements.txt
+```
