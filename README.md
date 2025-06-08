@@ -39,7 +39,7 @@ MLOps/
 └── README.md
 
 
----
+```
 
 ## 🔄 Pipeline Overview
 
