@@ -1,0 +1,15 @@
+artifact_uri: file:///s:/study/data%20scientist/projects/End-To-End%20MLOps/MLOps/mlruns/0/3f9f07ac4125457cb1ca39cc7b8c3f31/artifacts
+end_time: 1749378414550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f9f07ac4125457cb1ca39cc7b8c3f31
+run_name: angry-wasp-792
+run_uuid: 3f9f07ac4125457cb1ca39cc7b8c3f31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749378414510
+status: 4
+tags: []
+user_id: pd846

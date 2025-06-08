@@ -1,0 +1,15 @@
+artifact_uri: file:///s:/study/data%20scientist/projects/End-To-End%20MLOps/MLOps/mlruns/0/24990549a8de475f907f0963c0546e11/artifacts
+end_time: 1749378362153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24990549a8de475f907f0963c0546e11
+run_name: fearless-snail-983
+run_uuid: 24990549a8de475f907f0963c0546e11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749378362058
+status: 4
+tags: []
+user_id: pd846

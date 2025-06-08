@@ -3,11 +3,14 @@
 ## Workflow
 
 1. Update config.yaml
-1. Update schema.yaml
-1. Update params.yaml
-1. Update the entity
-1. Update the configuration manager in src config
-1. Update the components
-1. Update the pipeline
-1. Update the main
-1. Update the app.py
+2. Update schema.yaml
+3. Update params.yaml
+4. Update the entity
+5. Update the configuration manager in src config
+6. Update the components
+7. Update the pipeline
+8. Update the main
+9. Update the app.py
+
+
+

@@ -1,6 +1,6 @@
 from mlProject import logger
 from mlProject.config.configuration import ConfigurationManager
-from mlProject.components.data_validation import DataValidation
+
 from mlProject.components.data_transformation import DataTransformation
 
 

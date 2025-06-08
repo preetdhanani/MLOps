@@ -1,0 +1,15 @@
+artifact_uri: file:///s:/study/data%20scientist/projects/End-To-End%20MLOps/MLOps/mlruns/0/dd0fa67b185e4c208bdad8792360ebfc/artifacts
+end_time: 1749378419935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd0fa67b185e4c208bdad8792360ebfc
+run_name: redolent-sloth-407
+run_uuid: dd0fa67b185e4c208bdad8792360ebfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749378419895
+status: 4
+tags: []
+user_id: pd846

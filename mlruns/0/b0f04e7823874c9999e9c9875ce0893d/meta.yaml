@@ -1,0 +1,15 @@
+artifact_uri: file:///s:/study/data%20scientist/projects/End-To-End%20MLOps/MLOps/mlruns/0/b0f04e7823874c9999e9c9875ce0893d/artifacts
+end_time: 1749378463021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0f04e7823874c9999e9c9875ce0893d
+run_name: spiffy-hawk-923
+run_uuid: b0f04e7823874c9999e9c9875ce0893d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749378456401
+status: 3
+tags: []
+user_id: pd846
